@@ -6,10 +6,17 @@ int main(){
 	cout << "Please input grade of each student (A-F) or input 0 to exit.";
 	do{
 		cout << "Student [" << "]: ";
-		cin >> grade; //The loop must be terminated when grade = '0'
-		if(true) // if grade is A
+		string grade;
+		cin >> grade; 
+		
+		if(true) {
+			if ( string grade = 0);
+			break;
+		} //The loop must be terminated when grade = '0'
+		
+		if(true){ // if grade is A
 			//Do something
-		}else if(true) // if grade is B
+		}else if(true){ // if grade is B
 			//Do something
 		//and so on ... for grade = C, D, F	
 		}else{ // grade is wrong input
