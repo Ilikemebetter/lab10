@@ -5,5 +5,11 @@
     "files.associations": {
         "iostream": "cpp",
         "fstream": "cpp"
-    }
+    },
+    "editor.inlineSuggest.syntaxHighlightingEnabled": false,
+    "editor.quickSuggestions": {
+        "strings": "on",
+        "comments": "on"
+    },
+    "C_Cpp.default.compilerPath": "C:\\msys64\\ucrt64\\bin\\gcc.exe"
 }
